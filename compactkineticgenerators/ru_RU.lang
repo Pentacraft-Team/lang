@@ -1,0 +1,28 @@
+# Creative Tab
+itemGroup.compactkineticgenerators=Компактные кинетические генераторы
+
+# Block
+tile.ckg:BlockCkg.name=Низкоскоростной ветровой генератор
+tile.ckg:BlockCkg1.name=Среднескоростной ветровой генератор
+tile.ckg:BlockCkg2.name=Высокоскоростной ветровой генератор
+tile.ckg:BlockCkg3.name=Экстремальный ветровой генератор
+tile.ckg:BlockCkg4.name=Низкоскоростной водяной генератор
+tile.ckg:BlockCkg5.name=Среднескоростной водяной генератор
+tile.ckg:BlockCkg6.name=Высокоскоростной водяной генератор
+tile.ckg:BlockCkg7.name=Экстремальный водяной генератор
+tile.ckg:BlockCkg8.name=Низкоскоростной генератор
+tile.ckg:BlockCkg9.name=Среднескоростной генератор
+tile.ckg:BlockCkg10.name=Высокоскоростной генератор
+tile.ckg:BlockCkg11.name=Экстремальный генератор
+
+# Item
+item.compactkineticgenerators:IridiumRotor.name=Кинетический ротор (Иридиум)
+item.compactkineticgenerators:IridiumBlade.name=Иридиевое лопаточное колесо
+
+# Tooltip
+tooltip.ckg.eu=Выход мощности: 0-%s EU/т макс.
+tooltip.ckg.ku=Выход мощности: 0-%sx KU/т макс.
+tooltip.ckg.capacity0=Емкость: 1м EU
+tooltip.ckg.capacity1=Емкость: 4м EU
+tooltip.ckg.capacity2=Емкость: 10м EU
+tooltip.ckg.capacity3=Емкость: 40м EU
