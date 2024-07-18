@@ -130,3 +130,8 @@ item.element:compound_silicon_dioxide.name=Диоксид кремния
 item.element:compound_water.name=Вода
 
 item.element:periodic_diagram.name=Периодическая диаграмма
+
+item.upgradeGU.0.name=Улучшение «Бесконечный Заряд»
+item.upgradeGU.1.name=Улучшение «Хранилище жидкости»
+item.upgradeGU.2.name=Улучшение «Бесконечная Вода»
+item.upgradeGU.3.name=Улучшение «Всасыватель жидкостей»
