@@ -206,6 +206,10 @@ entity.galaxyupdate.PlutonDragon.name=Инопланетный Дракон Пл
 entity.galaxyupdate.TitanDragon.name=Инопланетный Дракон Титана
 entity.galaxyupdate.VeneraDragon.name=Инопланетный Дракон Венеры
 
+enderio.Supercapacitor_x16.name=Разогнанный конденсатор х16
+enderio.Supercapacitor_x32.name=Разогнанный конденсатор х32
+enderio.Supercapacitor_x64.name=Разогнанный конденсатор х64
+
 item.upgradeGU.0.name=Улучшение «Бесконечный Заряд»
 item.upgradeGU.1.name=Улучшение «Хранилище жидкости»
 item.upgradeGU.2.name=Улучшение «Бесконечная Вода»
