@@ -153,11 +153,11 @@ item.element:compound_water.name=Вода
 
 item.element:periodic_diagram.name=Периодическая диаграмма
 
-item.appliedenergistics2.item.ItemBasicStorageCell.65472k.name=65М МЭ ячейка хранения
-item.appliedenergistics2.item.ItemBasicStorageCell.130944k.name=130М МЭ ячейка хранения
-item.appliedenergistics2.item.ItemBasicStorageCell.261888k.name=261М МЭ ячейка хранения
-item.appliedenergistics2.item.ItemBasicStorageCell.1047552k.name=1G МЭ ячейка хранения
-item.appliedenergistics2.item.ItemBasicStorageCell.2097151k.name=2G МЭ ячейка хранения
+item.appliedenergistics2.ItemBasicStorageCell.65472k.name=65М МЭ ячейка хранения
+item.appliedenergistics2.ItemBasicStorageCell.130944k.name=130М МЭ ячейка хранения
+item.appliedenergistics2.ItemBasicStorageCell.261888k.name=261М МЭ ячейка хранения
+item.appliedenergistics2.ItemBasicStorageCell.1047552k.name=1G МЭ ячейка хранения
+item.appliedenergistics2.ItemBasicStorageCell.2097151k.name=2G МЭ ячейка хранения
 
 tile.appliedenergistics2.BlockCraftingStorage256k.name=256К хранилище создания
 tile.appliedenergistics2.BlockCraftingStorage1024k.name=1024К хранилище создания
