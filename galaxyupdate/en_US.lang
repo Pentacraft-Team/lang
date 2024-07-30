@@ -209,7 +209,7 @@ entity.galaxyupdate.VeneraDragon.name=Инопланетный Дракон Ве
 item.upgradeGU.0.name=Улучшение «Бесконечный Заряд»
 item.upgradeGU.1.name=Улучшение «Хранилище жидкости»
 item.upgradeGU.2.name=Улучшение «Бесконечная Вода»
-item.upgradeGU.3.name=Улучшение «Всасыватель жидкостей»
+item.upgradeGU.3.name=Улучшение «Поставщик жидкости»
 item.upgradeGU.4.name=Улучшение «Экстремальный энергохранитель»
 
 tooltip.upgrade.pulling=Автоматическая поставка с %1$s стороны
