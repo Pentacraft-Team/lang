@@ -1,10 +1,32 @@
-tile.oxygen_block.0.name=Генератор кислорода 1-го поколения
-tile.oxygen_block.1.name=Генератор кислорода 2-го поколения.
-tile.oxygen_block.2.name=Генератор кислорода 3-го поколения
+tile.adv_solar_panel_0.name=§cСолнечная Галактическая Панель §8[§c1-го§8] §cпоколения
+tile.adv_solar_panel_1.name=§6Солнечная Галактическая Панель §8[§c2-го§8] §6поколения
+tile.adv_solar_panel_2.name=§eСолнечная Галактическая Панель §8[§c3-го§8] §eпоколения
+tile.adv_solar_panel_3.name=§eСолнечная Галактическая Панель §8[§c4-го§8] §eпоколения
+tile.adv_solar_panel_4.name=§aСолнечная Галактическая Панель §8[§c5-го§8] §aпоколения
+tile.adv_solar_panel_5.name=§2Солнечная Галактическая Панель §8[§c6-го§8] §2поколения
+tile.adv_solar_panel_6.name=§9Солнечная Галактическая Панель §8[§c7-го§8] §9поколения
+tile.adv_solar_panel_7.name=§5Солнечная Галактическая Панель §8[§c8-го§8] §5поколения
+tile.adv_solar_panel_8.name=§dСолнечная Галактическая Панель §8[§c9-го§8] §dпоколения
+tile.adv_solar_panel_9.name=§4Солнечная Галактическая Панель §8[§c10-го§8] §4поколения
+tile.adv_solar_panel_10.name=§bСолнечная Галактическая Панель §8[§c11-го§8] §bпоколения
 
-tile.chemical_dissolver.name=Молекулярный расщепитель
-tile.chemical_combiner.name=Молекулярный смешиватель
-item.???:speed_upgrade.name=Ускоритель химической реакции
+tile.oxygen_block.0.name=§bГенератор кислорода §8[§c1-го§8] §bпоколения
+tile.oxygen_block.1.name=§aГенератор кислорода §8[§c2-го§8] §aпоколения
+tile.oxygen_block.2.name=§4Генератор кислорода §8[§c3-го§8] §4поколения
+
+tile.replicatorBio.name=Био-Репликатор
+tile.encodedBio.name=Кодировщик Био-Репликатора
+
+tile.unpack.name=Роспакоущик
+tile.trash.name=МЭ мусорка
+
+tile.dragonStorage.name=Компактное хранилище дракона
+
+tile.blockAvChest.name=Плотный контейнер
+
+tile.alchemy.0.name=Молекулярный расщепитель
+tile.alchemy.1.name=Молекулярный смешиватель
+item.alchimical-upgrade.name=Ускоритель химической реакции
 
 item.element:element_hydrogen.name=Водород
 item.element:element_helium.name=Гелий
@@ -131,7 +153,70 @@ item.element:compound_water.name=Вода
 
 item.element:periodic_diagram.name=Периодическая диаграмма
 
+item.appliedenergistics2.item.ItemBasicStorageCell.65472k.name=65М МЭ ячейка хранения
+item.appliedenergistics2.item.ItemBasicStorageCell.130944k.name=130М МЭ ячейка хранения
+item.appliedenergistics2.item.ItemBasicStorageCell.261888k.name=261М МЭ ячейка хранения
+item.appliedenergistics2.item.ItemBasicStorageCell.1047552k.name=1G МЭ ячейка хранения
+item.appliedenergistics2.item.ItemBasicStorageCell.2097151k.name=2G МЭ ячейка хранения
+
+tile.appliedenergistics2.BlockCraftingStorage256k.name=256К хранилище создания
+tile.appliedenergistics2.BlockCraftingStorage1024k.name=1024К хранилище создания
+tile.appliedenergistics2.BlockCraftingStorage4096k.name=4096К хранилище создания
+tile.appliedenergistics2.BlockCraftingStorage16384k.name=16М хранилище создания
+tile.appliedenergistics2.BlockCraftingStorage65472k.name=65М хранилище создания
+tile.appliedenergistics2.BlockCraftingStorage130944k.name=130М хранилище создания
+tile.appliedenergistics2.BlockCraftingStorage261888k.name=261М хранилище создания
+tile.appliedenergistics2.BlockCraftingStorage1047552k.name=1G хранилище создания
+
+tile.appliedenergistics2.BlockCraftingAccelerator_4.name=Блок обработки создания х4
+tile.appliedenergistics2.BlockCraftingAccelerator_16.name=Блок обработки создания х16
+tile.appliedenergistics2.BlockCraftingAccelerator_64.name=Блок обработки создания х64
+tile.appliedenergistics2.BlockCraftingAccelerator_128.name=Блок обработки создания х128
+tile.appliedenergistics2.BlockCraftingAccelerator_256.name=Блок обработки создания х256
+tile.appliedenergistics2.BlockCraftingAccelerator_512.name=Блок обработки создания х512
+tile.appliedenergistics2.BlockCraftingAccelerator_1024.name=Блок обработки создания х1024
+tile.appliedenergistics2.BlockCraftingAccelerator_2048.name=Блок обработки создания х2048
+tile.appliedenergistics2.BlockCraftingAccelerator_4096.name=Блок обработки создания х4096
+
+extraEnergyCell.name=Усовершенствованная энергетическая ячейка
+
+tile.draconicevolution:energyCrystal6.name=Энергетическое Реле Дракона
+tile.draconicevolution:energyCrystal7.name=Энергетическое Реле Виверны
+tile.draconicevolution:energyCrystal8.name=Энергетическое Реле Пробуждённое
+tile.draconicevolution:energyCrystal9.name=Энергетическое Реле Хаоса
+tile.draconicevolution:energyCrystal10.name=Энергетическое Реле Бесконечности
+
+tile.draconicevolution:energyCrystal11.name=Энергетический приёмо-передатчик Дракона
+tile.draconicevolution:energyCrystal12.name=Энергетический приёмо-передатчик Виверны
+tile.draconicevolution:energyCrystal13.name=Энергетический приёмо-передатчик Пробуждённый
+tile.draconicevolution:energyCrystal14.name=Энергетический приёмо-передатчик Хаоса
+tile.draconicevolution:energyCrystal15.name=Энергетический приёмо-передатчик Бесконечности
+
+tile.draconicevolution:energyCrystal16.name=Беспроводной энергетический приёмо-передатчик Дракона
+tile.draconicevolution:energyCrystal17.name=ЭнеБеспроводной энергетический приёмо-передатчик Виверны
+tile.draconicevolution:energyCrystal18.name=Беспроводной энергетический приёмо-передатчик Пробуждённый
+tile.draconicevolution:energyCrystal19.name=Беспроводной энергетический приёмо-передатчик Хаоса
+tile.draconicevolution:energyCrystal20.name=Беспроводной энергетический приёмо-передатчик Бесконечности
+
+entity.galaxyupdate.EarthDragon.name=Инопланетный Дракон Земли
+entity.galaxyupdate.MarsDragon.name=Инопланетный Дракон Марса
+entity.galaxyupdate.MercuryDragon.name=Инопланетный Дракон Меркурия
+entity.galaxyupdate.MoonDragon.name=Инопланетный Дракон Луны
+entity.galaxyupdate.PlutonDragon.name=Инопланетный Дракон Плутона
+entity.galaxyupdate.TitanDragon.name=Инопланетный Дракон Титана
+entity.galaxyupdate.VeneraDragon.name=Инопланетный Дракон Венеры
+
 item.upgradeGU.0.name=Улучшение «Бесконечный Заряд»
 item.upgradeGU.1.name=Улучшение «Хранилище жидкости»
 item.upgradeGU.2.name=Улучшение «Бесконечная Вода»
 item.upgradeGU.3.name=Улучшение «Всасыватель жидкостей»
+item.upgradeGU.4.name=Улучшение «Экстремальный энергохранитель»
+
+tooltip.upgrade.pulling=Автоматическая поставка с %1$s стороны
+
+dir.top=верхней
+dir.bottom=нижней
+dir.north=северной
+dir.east=восточной
+dir.south=южной
+dir.west=западной
