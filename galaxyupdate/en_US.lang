@@ -218,10 +218,10 @@ item.upgradeGU.4.name=Улучшение «Экстремальный энерг
 
 tooltip.upgrade.pulling=Автоматическая поставка с %1$s стороны
 
-dir.up.name=верхней
-dir.down.name=нижней
-dir.north.name=северной
-dir.east.name=восточной
-dir.south.name=южной
-dir.west.name=западной
+dir.up=верхней
+dir.down=нижней
+dir.north=северной
+dir.east=восточной
+dir.south=южной
+dir.west=западной
 
